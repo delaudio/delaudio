@@ -23,6 +23,7 @@ I'm a Software Engineer and Creative Coder.
 
 <i>Follow me:</i><br>
 
+<a href="https://www.twitter.com/delaudio_/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/federico-del-gaudio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/delaudio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
