@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi! I'm [Federico Del Gaudio](https://www.federicodelgaudio.it/) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 I'm a Software Engineer and Creative Coder. 
@@ -13,6 +15,8 @@ I'm a Software Engineer and Creative Coder.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+</div>
 
 <div align="center">
 
