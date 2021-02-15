@@ -6,7 +6,7 @@ I'm a Software Engineer and Creative Coder.
 <br/>Currently, I'm working [@PatchAi](https://patchai.io). 
 <br/>In my free time I enjoy playing electronic music with 💻 and 🎹
 
-**Currently working on:**  
+**Current stack:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
