@@ -31,6 +31,6 @@ I'm a Software Engineer and Creative Coder.
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delaudio&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delaudio&theme=radical)
 
 </div>
