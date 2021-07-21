@@ -3,7 +3,7 @@
 ### Hi! I'm [Federico Del Gaudio](https://www.federicodelgaudio.it/) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 I'm a Software Engineer and Creative Coder. 
-<br/>Currently, I'm working [@PatchAi](https://patchai.io). 
+<br/>Currently, I'm working [@Accurat](https://accurat.it). 
 <br/>In my free time I enjoy playing electronic music with 💻 and 🎹
 
 **Current stack:**  
