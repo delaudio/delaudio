@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi! I'm [Federico Del Gaudio](https://www.federicodelgaudio.it/) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+### Hi! I'm [Federico Del Gaudio](https://www.federicodelgaudio.it/)
 
 I'm a Software Engineer and Creative Coder. 
 <br/>Currently, I'm working [@Accurat](https://accurat.it). 
