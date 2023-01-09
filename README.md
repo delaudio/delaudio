@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi! I'm [Federico Del Gaudio](https://www.federicodelgaudio.it/)
+### Hi! I'm Federico Del Gaudio
 
 I'm a Software Engineer and Creative Coder. 
 <br/>Currently, I'm working [@Accurat](https://accurat.it). 
