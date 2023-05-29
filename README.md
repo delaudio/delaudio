@@ -2,21 +2,11 @@
 
 ### Hi! I'm Federico Del Gaudio
 
-I'm a Software Engineer and Creative Coder. 
-<br/>Currently, I'm working [@Accurat](https://accurat.it). 
+I'm a self-taught Software Engineer with a background in <br/>
+Architecture, Sound and Interaction Design.<br/>
+Mostly into Creative Coding and Jamstack.<br/>
+Currently working at [Accurat](https://accurat.it). 
 <br/>In my free time I enjoy playing electronic music with 💻 and 🎹
-
-**Current stack:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-</div>
 
 <div align="center">
 
