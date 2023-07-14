@@ -6,7 +6,7 @@ I'm a self-taught Software Engineer with a background in <br/>
 Architecture, Sound and Interaction Design.<br/>
 Mostly into Creative Coding and Jamstack.<br/>
 Currently working at [Accurat](https://accurat.it). 
-<br/>In my free time I enjoy playing electronic music with 💻 and 🎹
+<br/>In my free time I enjoy playing music with code.
 
 <div align="center">
 
