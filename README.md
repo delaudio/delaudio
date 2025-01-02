@@ -2,7 +2,7 @@
 
 ### Hi! I'm Federico Del Gaudio
 
-I'm a passionate Senior Software Engineer by day and Creative Coder / Computer Musician by night.<br/>
+I'm a passionate Software Engineer by day and Creative Coder / Computer Musician by night.<br/>
 Currently working at [Three60](https://three60energy.com/).<br/>
 
 <div align="center">
