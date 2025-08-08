@@ -2,7 +2,7 @@
 
 ### Hi! I'm Federico Del Gaudio
 
-I'm a passionate Software Engineer by day and Creative Coder / Computer Musician by night.<br/>
+I'm a Product Engineer with a passion for Computer Music and Creative Coding.<br/>
 
 <div align="center">
 
