@@ -2,7 +2,7 @@
 
 ### Hi! I'm Federico Del Gaudio
 
-I'm a Product Engineer with a passion for Computer Music and Creative Coding.<br/>
+I'm a Frontend Engineer with a passion for Computer Music and Creative Coding.<br/>
 
 <div align="center">
 
