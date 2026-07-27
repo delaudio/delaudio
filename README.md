@@ -2,7 +2,8 @@
 
 ### Hi! I'm Federico Del Gaudio
 
-I'm a Software Engineer with a passion for Computer Music and Creative Coding.<br/>
+I’m a software engineer with a background in architecture, multimedia design, and data visualization.
+<br/>
 
 <div align="center">
 
